@@ -1,8 +1,5 @@
-# ece350_start
+# RTOS For STM32
 
-Please keep the "ece350_start" folder as the top most directory of your project.
-
-min suck kang
-
-
-temp
+Created a kernel for an STM32 board with co-operative multitasking and
+preemption. Dynamic memory allocation using First-Fit Algorithm and Earliest
+Deadline first scheduling
